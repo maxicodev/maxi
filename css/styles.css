@@ -47,3 +47,10 @@ body
 {
     padding: 1em;
 }
+
+#info
+{
+    color: black;
+    border: 10px solid #DDD;
+}
+
