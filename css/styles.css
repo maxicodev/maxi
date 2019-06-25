@@ -1,5 +1,6 @@
 body
 {
+    color: blue;
     color: red;
     text-align: left;
     font-family: "Arial";
@@ -45,4 +46,14 @@ body
 #post
 {
     padding: 1em;
+
+}
+
+#info
+{
+    color: black;
+    border: 10px solid #DDD;
+}
+
+
 }
